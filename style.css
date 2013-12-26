@@ -1,0 +1,77 @@
+body {
+		font-family: 'Source Sans Pro', sans-serif;
+		margin: 0px;
+		
+	}
+
+.header	
+	{
+
+		background-color:#dbcf93;
+		text-align:left;
+		padding-left:20px;
+		line-height:25px;
+		
+		
+	}
+H1
+	{
+		font-size:16px;
+		font-weight:300;
+		color:black
+	}
+	
+.content
+	{
+		margin-left:50px;
+		width:580px;
+		line-height:25px;
+		float:left;
+		
+	}
+	
+.contentheader
+	{
+
+		font-size:20px;
+		font-weight:400;
+		color:black;
+		border-bottom:solid 1px #cbcbcb;
+		margin-bottom:2px;
+		line-height:20px;
+		padding-bottom:5px;
+	}
+	
+.contentbody
+	{
+		font-size:15px;
+		color:black;
+		
+	}
+.profileImage
+	{
+		float:left;
+		display:block;
+		margin-left:20px;
+		margin-top:6px;
+		padding: 4px;
+		border: 1px solid #ccc;
+		box-shadow: 1px 3px 3px #ddd;
+		width:300px;
+	}
+.ProfileDescription
+	{
+		float:left;
+		display:block;
+		width:300px;
+		margin-left:20px;
+		margin-top:10px;
+		font-size:15px;
+	}
+.profileArea
+	{
+		display:block;
+		width:300px;
+		float:left;
+	}
+	
